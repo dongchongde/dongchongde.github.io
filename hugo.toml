@@ -1,0 +1,4 @@
+baseURL = "https://dongchongde.github.io/"
+languageCode = "zh-cn"
+title = "Dong Chongde"
+theme = "PaperMod"
