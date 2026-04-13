@@ -6,12 +6,6 @@ title = '当CPU飙高时，SRE的排查清单——USE Method实战'
 
 
 
-+++
-date = '2026-04-13T20:57:14+08:00'
-draft = false
-title = '当CPU飙高时，SRE的排查清单——USE Method实战'
-+++
-
 ## 背景
 
 作为 SRE，接到 CPU 告警是家常便饭。但很多工程师的排查方式是靠直觉——"感觉是 CPU 问题就看 CPU，感觉是内存问题就看内存"，容易遗漏，也没有系统性。
